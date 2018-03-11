@@ -1,0 +1,10 @@
+h2{
+    text-align: center;
+    color: dimgrey;
+}
+canvas{
+    display: block;
+    margin: 50px auto;
+    box-shadow: -3px -3px 2px rgb(55, 56, 51),5px 5px 5px rgb(55, 56, 51);
+    background:#EEF2E4;
+}
